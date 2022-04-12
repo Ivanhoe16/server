@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\универ\мага\lab_4 sem_server\lab_4 sem_server\bin\Debug\lab_4 sem_server.exe.config
+C:\Users\user\Desktop\универ\мага\lab_4 sem_server\lab_4 sem_server\bin\Debug\lab_4 sem_server.exe
+C:\Users\user\Desktop\универ\мага\lab_4 sem_server\lab_4 sem_server\bin\Debug\lab_4 sem_server.pdb
+C:\Users\user\Desktop\универ\мага\lab_4 sem_server\lab_4 sem_server\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\универ\мага\lab_4 sem_server\lab_4 sem_server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\универ\мага\lab_4 sem_server\lab_4 sem_server\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\универ\мага\lab_4 sem_server\lab_4 sem_server\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\Desktop\универ\мага\lab_4 sem_server\lab_4 sem_server\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\Desktop\универ\мага\lab_4 sem_server\lab_4 sem_server\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\универ\мага\lab_4 sem_server\lab_4 sem_server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\универ\мага\lab_4 sem_server\lab_4 sem_server\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\универ\мага\lab_4 sem_server\lab_4 sem_server\obj\Debug\lab_4 sem_server.csprojAssemblyReference.cache
+C:\Users\user\Desktop\универ\мага\lab_4 sem_server\lab_4 sem_server\obj\Debug\lab_4 sem_server.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\универ\мага\lab_4 sem_server\lab_4 sem_server\obj\Debug\lab_4 sem_server.csproj.CopyComplete
+C:\Users\user\Desktop\универ\мага\lab_4 sem_server\lab_4 sem_server\obj\Debug\lab_4 sem_server.exe
+C:\Users\user\Desktop\универ\мага\lab_4 sem_server\lab_4 sem_server\obj\Debug\lab_4 sem_server.pdb
